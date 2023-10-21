@@ -11,3 +11,5 @@ btn.addEventListener("click",function(){
     document.body.style.backgroundColor = colors;
     document.querySelector(".color").textContent= colors;     
 })
+
+//already define similar jquery code previous app.js file
